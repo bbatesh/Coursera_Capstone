@@ -17,4 +17,8 @@ https://github.com/bbatesh/Coursera_Capstone/blob/master/Week%203/SegmentingAndC
 
 ### Week 4 - Battle of the Neighborhoods - Part 1
 
+https://github.com/bbatesh/Coursera_Capstone/tree/master/Week%204%20-%20Capstone%201
+
 ### Week 5 - Battle of the Neighborhoods - Part 2
+
+https://github.com/bbatesh/Coursera_Capstone/tree/master/Week%205%20-%20Capstone%202
