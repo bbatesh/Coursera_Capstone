@@ -1,5 +1,9 @@
 # Coursera Capstone
-This is a repo setup or the capstone portion of the IBM Applied Data Science Professional Certificate.
+This is a repo setup for the Coursera course IBM Applied Data Science Professional Certificate.
+
+Coursera: https://www.coursera.org/
+
+IBM Applied Data Science Professional Certificate: https://www.coursera.org/learn/applied-data-science-capstone/home/welcome
 
 Initial jupyter notebook to show that the repo works
 
